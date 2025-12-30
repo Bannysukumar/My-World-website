@@ -106,8 +106,11 @@ const PrivacyPolicy = () => {
                         If you have any questions about this Privacy Policy or our data practices, please contact us at:
                     </p>
                     <p>
-                        <strong>Email:</strong> <a href="/contact">Contact Us</a><br />
-                        <strong>App:</strong> My World (com.My.World)
+                        <strong>Developer Name:</strong> Bannysukumar<br />
+                        <strong>Email:</strong> <a href="mailto:bannysukumar@gmail.com">bannysukumar@gmail.com</a><br />
+                        <strong>App Name:</strong> My World<br />
+                        <strong>Package Name:</strong> com.My.World<br />
+                        <strong>Contact Page:</strong> <a href="/contact">Contact Us</a>
                     </p>
                 </div>
             </div>
